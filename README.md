@@ -11,7 +11,7 @@ I am a Backend Developer with practical and commercial experience, focusing on h
 - 🏢 **Currently working on:** A comprehensive **Project Management System** (Go) and a CRM documentation portal for *LLC Malachite*.
 - 💡 **Tech interests:** API development, System Design, and algorithmic problem-solving.
 - 💬 **Ask me about:** Go, C#, C++, and backend architecture.
-- ⚡ **Fun fact:** I love bringing order to complex backend logic.
+- ⚡ **Fun fact:** I love diving into exciting projects and I'm always eager to learn something new!
 
 ### 🛠️ Tech Stack
 
